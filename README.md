@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Abhay349/Abhay349/blob/main/github-header-banner.png"/>
+  <img src="https://github.com/Shivampal157/Shivampal157/blob/main/github-header-banner%20(2).png"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivam Pal </h1>
