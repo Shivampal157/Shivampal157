@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning *Machine Learning, Deep Learning, and Computer Vision*  
-- 💬 Ask me about *DSA, ML, AI, and JAVA Development*  
-- 📫 Reach me at: *pandeyabhay967@gmail.com*  
+- 💬 Ask me about *DSA, ML, AI, and C++ Development*  
+- 📫 Reach me at: *shivam10palpal@gmail.com*  
 - ⚡ Fun fact: I love solving problems & building cool projects  
 
 ---
