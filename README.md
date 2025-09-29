@@ -22,16 +22,14 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/abhay-pandey-79b2a5190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/shivam-pal-677777301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/ab_hay0623" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+ 
   <a href="https://kaggle.com/sebrin" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="mailto:pandeyabhay967@gmail.com">
+  <a href="mailto:shivam10palpal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -92,18 +90,18 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhkr72&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhkr72&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivampal157&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivampal157&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhkr72&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivampal157&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="160"/>
 </p>
 
 ---
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhkr72&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/shivampal157/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivampal157&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 ---
