@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Software Engineer | CSE @ IIIT Agartala</h3>
 
 <p align="center">
-  <img src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="Coding" width="350"/>
+  <img src="https://github.com/shivampal157/shivampal157/blob/main/git_anime.gif" alt="Coding" width="350"/>
 </p>
 
 ---
@@ -22,13 +22,10 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/shivam-pal-677777301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="[https://www.linkedin.com/in/shivam-pal-677777301](https://www.linkedin.com/in/shivam-pal-677777301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  
-  <a href="https://kaggle.com/sebrin" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
   <a href="mailto:shivam10palpal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
