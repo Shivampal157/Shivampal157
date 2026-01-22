@@ -19,6 +19,26 @@
 - ⚡ Fun fact: I love solving problems & building cool projects  
 
 ---
+---
+
+## 🇮🇳 Government of India – OpenForge (APAAR)
+
+Contributed official documentation to the **Government of India OpenForge** platform  
+for **APAAR (Automated Permanent Academic Account Registry)**.
+
+### 📄 Contributions
+- APAAR Authentication Overview  
+- APAAR System Architecture  
+- OpenForge Workshop Outcomes Summary  
+- State-wise Workshop Outcome Pages  
+  (Arunachal, HP, MP, Rajasthan, Sikkim)
+
+### 🔗 Links
+- 📂 GitHub Repository:  
+  https://github.com/Shivampal157/gov-openforge-contributions
+
+- ✅ Public Verification (OpenForge Wiki):  
+  https://openforge.gov.in/projects/apaar-documentation/wiki
 
 ### 🌐 Connect with Me  
 <p align="left">
